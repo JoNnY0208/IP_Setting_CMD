@@ -1,6 +1,14 @@
 # IP Setting CMD
 Check and Setup your IP address easly from cmd.
 
+To change the IP address of your network card you have to go to Settings - Network - Select right adapter - Enter Adapter Parameters - Select IPv4 - Type new settings - Save
+
+This is easy but can be time consuming a specialy when you have to go through the whole procedure many times in short period of time.
+
+To reduce number of steps and time consumed you can use this script so you can applied all the necesary changes using just keyboard.
+
+Before the first run change the name of the adapter in the script so it will match the name of the adapter you want to modify with the script.
+
 ---
 
 Run the aplication as Administrator.
