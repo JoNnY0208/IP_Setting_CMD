@@ -19,19 +19,19 @@ Use number to navigate around the script. To modify pre configured IP Settings p
 ![screenshot](images/startup.PNG)
 
 #### Manual IP Settings
-![screenshot](images/Manual IP Setting.PNG)
+![screenshot](images/ManualIPSetting.PNG)
 
 #### No Admin Rights
-![screenshot](images/No Admin.PNG)
+![screenshot](images/NoAdmin.PNG)
 
 #### Latest Changes Applied
-![screenshot](images/New Settings.PNG)
+![screenshot](images/NewSettings.PNG)
 
 #### Ping
 ![screenshot](images/Ping.PNG)
 
 #### Pre Configured Options
-![screenshot](images/Pre Configured.PNG)
+![screenshot](images/PreConfigured.PNG)
 
 #### Current Network Adapters Settings 
 ![screenshot](images/Status.PNG)
